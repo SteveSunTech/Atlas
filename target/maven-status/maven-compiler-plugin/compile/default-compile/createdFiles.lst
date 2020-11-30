@@ -1,0 +1,5 @@
+com\steve\cloudatlas\entity\Game$1.class
+com\steve\cloudatlas\entity\Game.class
+com\steve\cloudatlas\entity\Game$Builder.class
+com\steve\cloudatlas\external\TwitchException.class
+com\steve\cloudatlas\external\TwitchClient.class

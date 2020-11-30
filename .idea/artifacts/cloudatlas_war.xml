@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloudatlas:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cloudatlas</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cloudatlas-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cloudatlas:war exploded" />
+    </root>
+  </artifact>
+</component>
