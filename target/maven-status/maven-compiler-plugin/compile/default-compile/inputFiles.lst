@@ -1,4 +1,9 @@
+D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\entity\ItemType.java
 D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\servlet\GameServlet.java
+D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\servlet\SearchServlet.java
 D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\entity\Game.java
+D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\db\MySQLDBUtil.java
+D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\db\MySQLTableCreator.java
 D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\external\TwitchException.java
+D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\entity\Item.java
 D:\Project\cloudatlas\src\main\java\com\steve\cloudatlas\external\TwitchClient.java

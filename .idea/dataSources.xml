@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="atlas" uuid="63c953a2-cfaa-485a-9d06-0473b129b7e4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://atlas-instance.cnxcpbkmu6r1.us-east-1.rds.amazonaws.com:3306/atlas</jdbc-url>
+    </data-source>
+  </component>
+</project>
