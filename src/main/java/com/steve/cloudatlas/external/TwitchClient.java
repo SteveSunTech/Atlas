@@ -19,7 +19,7 @@ import java.net.URLEncoder;
 import java.util.*;
 
 public class TwitchClient {
-    private static final String TOKEN = "Bearer 07gaukbs3kuheccr2wcvw2knyszoty";
+    private static final String TOKEN = "Bearer 4ywjsy3ax48sqck0nnvkdsa4g0w5dh";
     private static final String CLIENT_ID = "u3g4k0rychdlr9ex6gcvyg3ssa0ywb";
     private static final String TOP_GAME_URL_TEMPLATE = "https://api.twitch.tv/helix/games/top?first=%s";
     private static final String GAME_SEARCH_URL_TEMPLATE = "https://api.twitch.tv/helix/games?name=%s";
