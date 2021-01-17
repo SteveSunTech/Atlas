@@ -1,3 +1,3 @@
 # Atlas
 
-![image](https://github.com/SteveSunTech/CloudAtlas/blob/master/exmple.png)
+![image](https://github.com/SteveSunTech/CloudAtlas/blob/master/example.png)
